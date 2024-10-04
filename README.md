@@ -54,10 +54,6 @@ Below is a screenshot of the output:
 
 ![confusion-matrix](https://github.com/user-attachments/assets/cd261604-5a6d-4764-b82a-92dc9846e715)
 
-
-
-> Replace `screenshot.png` with an actual screenshot of the model's performance metrics.
-
 ## Conclusion
 
 This model successfully detects fraudulent credit card transactions with a high level of accuracy. However, given the class imbalance (fraudulent transactions represent only 0.172% of the dataset), further techniques like oversampling, undersampling, or using more advanced machine learning algorithms can be explored to improve performance.
@@ -68,9 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### To include the output screenshot:
-- After running your notebook and generating the output, take a screenshot of the relevant results (such as confusion matrix, accuracy score, etc.).
-- Save the screenshot as `screenshot.png` in your project folder.
-- GitHub will display this image in the `README.md` file.
-
-Let me know if you need any further adjustments!
