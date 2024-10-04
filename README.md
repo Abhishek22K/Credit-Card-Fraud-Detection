@@ -52,7 +52,8 @@ The dataset is split into training and testing sets using an 80-20 split. We use
 
 Below is a screenshot of the output:
 
-![image](https://github.com/user-attachments/assets/0f10b9dd-b8ec-41b7-9398-be55bee628e4)
+![confusion-matrix](https://github.com/user-attachments/assets/cd261604-5a6d-4764-b82a-92dc9846e715)
+
 
 
 > Replace `screenshot.png` with an actual screenshot of the model's performance metrics.
